@@ -1,7 +1,6 @@
-
+# kidzero's github
 
  <div align="center">
-# kidzero's github
 
 <br>
 
