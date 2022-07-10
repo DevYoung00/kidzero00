@@ -1,7 +1,6 @@
 
  
 <div align="center">
-<h1>kidzero's github<h1>
 
 <h2>skills :computer:<h2>
  
