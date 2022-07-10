@@ -2,7 +2,7 @@
  
 <div align="center">
 <h1>kidzero's github<h1>
-<br>
+
 <h2>skills :computer:<h2>
  
  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
