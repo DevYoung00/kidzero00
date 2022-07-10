@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 # kidzero's github
 
 <br>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dkdud203)](https://solved.ac/dkdud203)
+
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kidzero00&layout=compact&theme=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kidzero00)
 🌱🌱🌱
