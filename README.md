@@ -1,7 +1,7 @@
  <div align="center">
 
 <br>
-<h1>:computer: skills :computer:<h1>
+<h1>skills :computer:<h1>
  
  #
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dkdud203)](https://solved.ac/dkdud203)
