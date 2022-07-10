@@ -1,7 +1,7 @@
  <div align="center">
 
 <br>
-# skills
+<h1>skills<h1>
  
  #
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dkdud203)](https://solved.ac/dkdud203)
