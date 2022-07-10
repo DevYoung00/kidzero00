@@ -21,5 +21,7 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dkdud203)](https://solved.ac/dkdud203)
 
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kidzero00&layout=Demo&theme=merko)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kidzero00&show_icons=true&theme=tokyonight)
+
+<br>
 🌱🌱🌱
