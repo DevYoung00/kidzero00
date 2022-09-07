@@ -14,5 +14,7 @@
  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+ <br><br><br>
+ https://www.notion.so/kidzero/8a9ffacbaa0c4fd7a2bcaaad3e1769c2
 
 </div>
